@@ -33,6 +33,17 @@ Click the User Profile in the Top Right Corner, then settings.
 Go to connections, then new connection.
 
 
+## Credits
+
+Guacamole Install Script https://github.com/MysticRyuujin/guac-install
+
+Apache Guacamole https://guacamole.apache.org/
+
+The Tianocore EDK Project https://github.com/tianocore/edk2
+
+Myself
+
+
 
 
 
